@@ -1,0 +1,18 @@
+body {
+	margin: 2rem auto;
+	
+	background-color: #3d7e9a;
+}
+main{
+	width: 32rem;
+	height: 30rem;
+	margin: 2rem auto;
+	/* background: #3d7e9a; */
+
+}
+input {
+
+}
+button {
+	margin: 15px 55px;
+}
